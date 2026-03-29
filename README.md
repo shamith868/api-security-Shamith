@@ -5,3 +5,6 @@ If an API key is exposed on GitHub, attackers can misuse it to make unauthorized
 
 **2. Why not log city names:**
 City names are considered location data, which can be classified as personal information under privacy laws like GDPR. Logging such data without user consent can violate privacy regulations and company policies. It also increases the risk of sensitive user information being exposed if logs are accessed or breached.
+
+## Screenshot Proof
+<img width="1895" height="978" alt="Screenshot 2026-03-29 113908" src="https://github.com/user-attachments/assets/8260b917-750a-458e-ade3-9fcfb542adfc" />
