@@ -1,6 +1,7 @@
 # API Security Assignment
 ## Answers
 **1. Consequences of exposing API keys:**
-If an API key is exposed on GitHub, attackers can misuse it to make unauthorized requests, leading to financial loss, service abuse, or data breaches.
+If an API key is exposed on GitHub, attackers can misuse it to make unauthorized API requests. This can lead to financial loss due to excessive usage charges, service disruption, and abuse of resources. In some cases, it may also expose sensitive data or allow attackers to impersonate the application, damaging the company’s reputation.
+
 **2. Why not log city names:**
-City names are considered location data, which is personal information under privacy laws like GDPR. Logging such data can violate user privacy and company policies.
+City names are considered location data, which can be classified as personal information under privacy laws like GDPR. Logging such data without user consent can violate privacy regulations and company policies. It also increases the risk of sensitive user information being exposed if logs are accessed or breached.
